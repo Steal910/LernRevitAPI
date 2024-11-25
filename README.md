@@ -14,13 +14,6 @@ This Python script simplifies the creation of shared parameters in Revit project
 2. Run the script and enter the name of the parameter.  
 3. The parameter will be created and bound to categories in Revit.  
 
-## 📷 Screenshots  
-### Example workflow:  
-1. Entering a parameter name:  
-   ![Screenshot 1](screenshot1.png)  
-2. Binding parameter to categories:  
-   ![Screenshot 2](screenshot2.png)  
-
 ## 🎯 Why I Built This  
 This project represents my first steps into the world of BIM development. My goal is to explore programming as a tool for automating and optimizing design workflows in construction.  
 
